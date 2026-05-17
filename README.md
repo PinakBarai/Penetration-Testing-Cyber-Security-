@@ -141,8 +141,9 @@ This repository is intended strictly for educational and ethical learning purpos
 
 ## Author
 
-Pinak Barai
-Undergraduate Student, Computer Science and Engineering
+Pinak Barai<br>
+Undergraduate Student<br> 
+Computer Science and Engineering<br>
 Southeast University
 
 GitHub: https://github.com/PinakBarai
