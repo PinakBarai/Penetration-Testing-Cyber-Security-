@@ -1,119 +1,87 @@
-<p align="center">
-  <strong style="font-size:22px;">Enhancing Digital Government Economy (EDGE)</strong><br><br>
+# 🔐 Applied Penetration Testing Labs
 
-<span style="font-size:18px;">Digital Skills for Students</span><br><br>
+## 📌 Overview
 
-  <span style="font-size:16px;">
-    Host University: Chittagong University of Engineering and Technology
-  </span><br>
+This repository contains my hands-on lab exercises, notes, and reports completed during the **Applied Penetration Testing Engineer (Hands-on)** course under the **EDGE – Digital Skills for Students Program**.
 
-  <span style="font-size:16px;">
-    Host Dept./Institute/Center: Dept. of CSE, CUET
-  </span><br><br>
+🎓 **Student:** Pinak Barai
+🏫 **Department:** CSE, Southeast University
+📍 **Host Institution:** Chittagong University of Engineering and Technology (CUET)
+📍 **Batch:** CADS-003
 
-  <span style="font-size:16px;">
-    Venue: Southeast University, Batch Number: CADS-003
-  </span><br><br>
-
-  <span style="font-size:16px;">
-    Training Track/Course Name: Applied Penetration Testing Engineer: Hands-on
-  </span><br><br>
-
-  <span style="font-size:16px;">
-    Level: Advanced Level
-  </span>
-</p>
+This repository documents my practical journey in cybersecurity and penetration testing using tools and techniques learned throughout the course.
 
 ---
 
-# Applied Penetration Testing Labs
+## 🎯 Objectives
 
-## Overview
-
-This repository contains the practical laboratory exercises, notes, and reports completed as part of the **Applied Penetration Testing Engineer (Hands-on)** course under the Enhancing Digital Government Economy (EDGE) – Digital Skills for Students Program.
-
-* **Student:** Pinak Barai
-* **Department:** Computer Science and Engineering, Southeast University
-* **Host Institution:** Chittagong University of Engineering and Technology (CUET)
-* **Batch:** CADS-003
-
-This repository documents hands-on experience in cybersecurity and penetration testing using industry-relevant tools and methodologies within a controlled laboratory environment.
+* Understand real-world cybersecurity threats and attack surfaces
+* Perform basic penetration testing in controlled lab environments
+* Learn vulnerability identification and mitigation techniques
+* Practice ethical hacking methodologies responsibly
 
 ---
 
-## Objectives
+## 📚 Topics Covered
 
-* To develop a foundational understanding of cybersecurity principles and threat landscapes
-* To perform structured penetration testing activities in supervised lab environments
-* To identify, analyze, and document security vulnerabilities
-* To understand mitigation strategies and secure system practices
-* To practice ethical hacking within legal and professional boundaries
+### 🔎 Reconnaissance & Information Gathering
 
----
+* OSINT Techniques (WHOIS, DNS, Shodan)
+* Footprinting & Attack Surface Discovery
 
-## Topics Covered
+### 🌐 Scanning & Enumeration
 
-### Reconnaissance and Information Gathering
+* Nmap (Port Scanning, Service Detection)
+* Network Enumeration Techniques
 
-* Open Source Intelligence (OSINT) techniques
-* WHOIS, DNS analysis, and Shodan
-* Attack surface identification
+### ⚠️ Vulnerability Assessment
 
-### Scanning and Enumeration
+* CVE Analysis
+* OpenVAS / Nessus Basics
+* Misconfiguration Detection
 
-* Network scanning using Nmap
-* Service detection and port analysis
-* Enumeration techniques
+### 💣 Exploitation
 
-### Vulnerability Assessment
+* Metasploit Framework
+* Basic Payload Execution
 
-* Common Vulnerabilities and Exposures (CVE) analysis
-* Introduction to OpenVAS and Nessus
-* Misconfiguration identification
+### 🌍 Web Application Security
 
-### Exploitation
-
-* Fundamentals of exploitation
-* Use of the Metasploit Framework
-* Basic payload execution techniques
-
-### Web Application Security
-
-* OWASP Top 10 vulnerabilities
+* OWASP Top 10
 * SQL Injection (SQLi)
 * Cross-Site Scripting (XSS)
-* Authentication and session management flaws
+* Authentication Flaws
 
-### Password Security and Attacks
+### 🔐 Password Attacks
 
-* Brute-force and dictionary attacks
-* Hash analysis techniques
+* Brute Force Attacks
+* Dictionary Attacks
 * Tools: Hydra, Hashcat, John the Ripper
 
-### Network Analysis
+### 📡 Network Analysis
 
-* Packet capture and analysis using Wireshark
-* Traffic inspection and protocol analysis
-* ARP and FTP traffic analysis
+* Wireshark
+* Packet Capture & Traffic Inspection
+* ARP & FTP Analysis
 
-### Post-Exploitation Concepts
+### 🔓 Post-Exploitation
 
-* Privilege escalation fundamentals
-* Access control and persistence concepts
+* Privilege Escalation Concepts
+* Access Control & Persistence Basics
 
-### Security Practices
+### 🛡 Security Practices
 
-* System hardening
-* Secure configuration techniques
-* Basic log analysis
+* System Hardening
+* Secure Configuration
+* Log Analysis
 
 ---
 
-## Tools and Technologies
+## 🛠 Tools Used
 
 * Kali Linux
 * Nmap
-* Metasploit Framework
+* Metasploit
 * Wireshark
 * Hydra
 * Hashcat
@@ -121,7 +89,7 @@ This repository documents hands-on experience in cybersecurity and penetration t
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```
 penetration-testing-labs/
@@ -139,25 +107,26 @@ penetration-testing-labs/
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-This repository is intended strictly for educational and ethical learning purposes. All activities were conducted in controlled laboratory environments. No unauthorized systems or real-world targets were involved.
-
----
-
-## Future Work
-
-* Development of advanced penetration testing projects
-* Participation in Capture The Flag (CTF) challenges
-* Exploration of vulnerability disclosure and bug bounty programs
-* Further study in specialized cybersecurity domains
+This repository is created strictly for **educational and ethical purposes only**.
+All activities were performed in controlled lab environments.
+No real systems or unauthorized targets were used.
 
 ---
 
-## Author
+## 🚀 Future Goals
 
-Pinak Barai
-Undergraduate Student, Computer Science and Engineering
-Southeast University
+* Build real-world cybersecurity projects
+* Participate in CTF challenges
+* Explore Bug Bounty programs
+* Develop deeper expertise in penetration testing
 
-GitHub: https://github.com/PinakBarai
+---
+
+## 👨‍💻 Author
+
+**Pinak Barai**
+CSE Student | Cybersecurity Enthusiast
+
+🔗 GitHub: https://github.com/PinakBarai
