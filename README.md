@@ -1,31 +1,45 @@
 <p align="center">
+  <strong style="font-size:22px;">Enhancing Digital Government Economy (EDGE)</strong><br><br>
 
-<strong>Enhancing Digital Government Economy (EDGE)</strong>
+<span style="font-size:18px;">Digital Skills for Students</span><br><br>
 
-<br><br>
+  <span style="font-size:16px;">
+    Host University: Chittagong University of Engineering and Technology
+  </span><br>
 
-Digital Skills for Students
+  <span style="font-size:16px;">
+    Host Dept./Institute/Center: Dept. of CSE, CUET
+  </span><br><br>
 
-<br><br>
+  <span style="font-size:16px;">
+    Venue: Southeast University, Batch Number: CADS-003
+  </span><br><br>
 
-Host University: Chittagong University of Engineering and Technology
-Host Dept./Institute/Center: Dept. of CSE, CUET
+  <span style="font-size:16px;">
+    Training Track/Course Name: Applied Penetration Testing Engineer: Hands-on
+  </span><br><br>
 
-<br>
-
-Venue: Southeast University
-Batch Number: CADS-003
-
-<br>
-
-Training Track/Course Name: Applied Penetration Testing Engineer: Hands-on
-
-<br>
-
-Level: Advanced Level
-
+  <span style="font-size:16px;">
+    Level: Advanced Level
+  </span>
 </p>
 
+---
+
+# Applied Penetration Testing Labs
+
+## Overview
+
+This repository contains the practical laboratory exercises, notes, and reports completed as part of the **Applied Penetration Testing Engineer (Hands-on)** course under the Enhancing Digital Government Economy (EDGE) – Digital Skills for Students Program.
+
+* **Student:** Pinak Barai
+* **Department:** Computer Science and Engineering, Southeast University
+* **Host Institution:** Chittagong University of Engineering and Technology (CUET)
+* **Batch:** CADS-003
+
+This repository documents hands-on experience in cybersecurity and penetration testing using industry-relevant tools and methodologies within a controlled laboratory environment.
+
+---
 
 ## Objectives
 
@@ -142,9 +156,8 @@ This repository is intended strictly for educational and ethical learning purpos
 
 ## Author
 
-Pinak Barai<br>
-Undergraduate Student<br> 
-Computer Science and Engineering<br>
+Pinak Barai
+Undergraduate Student, Computer Science and Engineering
 Southeast University
 
 GitHub: https://github.com/PinakBarai
