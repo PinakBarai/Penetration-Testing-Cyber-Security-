@@ -128,7 +128,8 @@ This repository is for educational and ethical learning purposes only. All activ
 
 ## Author
 
-Pinak Barai
-CSE Student, Southeast University
+Pinak Barai<br>
+Computer Science and Engineering<br> 
+Southeast University
 
 GitHub: https://github.com/PinakBarai
