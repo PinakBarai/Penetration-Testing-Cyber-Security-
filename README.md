@@ -1,84 +1,100 @@
-# 🔐 Applied Penetration Testing Labs
+<p align="center">
+<b>Enhancing Digital Government Economy (EDGE)</b><br><br>
 
-## 📌 Overview
+Digital Skills for Students<br><br>
 
-This repository contains my hands-on lab exercises, notes, and reports completed during the **Applied Penetration Testing Engineer (Hands-on)** course under the **EDGE – Digital Skills for Students Program**.
+Host University: Chittagong University of Engineering and Technology<br>
+Host Dept./Institute/Center: Dept. of CSE, CUET<br><br>
 
-**Student:** Pinak Barai<br>
-**Department:** Computer Science and Engineering <br>
-Southeast University
-**Host Institution:** Chittagong University of Engineering and Technology (CUET)
-**Batch:** CADS-003
+Venue: Southeast University<br>
+Batch Number: CADS-003<br><br>
 
-This repository documents my practical journey in cybersecurity and penetration testing using tools and techniques learned throughout the course.
+Training Track/Course Name: Applied Penetration Testing Engineer: Hands-on<br><br>
 
----
+Level: Advanced Level
 
-## 🎯 Objectives
-
-* Understand real-world cybersecurity threats and attack surfaces
-* Perform basic penetration testing in controlled lab environments
-* Learn vulnerability identification and mitigation techniques
-* Practice ethical hacking methodologies responsibly
+</p>
 
 ---
 
-## 📚 Topics Covered
+# Applied Penetration Testing Labs
 
-### 🔎 Reconnaissance & Information Gathering
+## Overview
 
-* OSINT Techniques (WHOIS, DNS, Shodan)
-* Footprinting & Attack Surface Discovery
+This repository contains practical laboratory exercises, notes, and reports completed as part of the Applied Penetration Testing Engineer (Hands-on) course under the EDGE – Digital Skills for Students Program.
 
-### 🌐 Scanning & Enumeration
+* **Student:** Pinak Barai
+* **Department:** Computer Science and Engineering, Southeast University
+* **Host Institution:** Chittagong University of Engineering and Technology (CUET)
+* **Batch:** CADS-003
 
-* Nmap (Port Scanning, Service Detection)
-* Network Enumeration Techniques
+This repository documents hands-on experience in cybersecurity and penetration testing using industry-relevant tools and methodologies in a controlled lab environment.
 
-### ⚠️ Vulnerability Assessment
+---
 
-* CVE Analysis
-* OpenVAS / Nessus Basics
-* Misconfiguration Detection
+## Objectives
 
-### 💣 Exploitation
+* Develop a foundational understanding of cybersecurity concepts
+* Perform structured penetration testing in lab environments
+* Identify and analyze vulnerabilities
+* Understand mitigation and secure system practices
+* Practice ethical hacking responsibly
+
+---
+
+## Topics Covered
+
+### Reconnaissance and Information Gathering
+
+* OSINT techniques
+* WHOIS, DNS, Shodan
+* Attack surface discovery
+
+### Scanning and Enumeration
+
+* Nmap (port scanning, service detection)
+* Enumeration techniques
+
+### Vulnerability Assessment
+
+* CVE analysis
+* OpenVAS / Nessus basics
+
+### Exploitation
 
 * Metasploit Framework
-* Basic Payload Execution
+* Basic payload execution
 
-### 🌍 Web Application Security
+### Web Application Security
 
 * OWASP Top 10
 * SQL Injection (SQLi)
 * Cross-Site Scripting (XSS)
-* Authentication Flaws
 
-### 🔐 Password Attacks
+### Password Attacks
 
-* Brute Force Attacks
-* Dictionary Attacks
+* Brute-force and dictionary attacks
 * Tools: Hydra, Hashcat, John the Ripper
 
-### 📡 Network Analysis
+### Network Analysis
 
 * Wireshark
-* Packet Capture & Traffic Inspection
-* ARP & FTP Analysis
+* Packet and traffic analysis
 
-### 🔓 Post-Exploitation
+### Post-Exploitation
 
-* Privilege Escalation Concepts
-* Access Control & Persistence Basics
+* Privilege escalation concepts
+* Access control basics
 
-### 🛡 Security Practices
+### Security Practices
 
-* System Hardening
-* Secure Configuration
-* Log Analysis
+* System hardening
+* Secure configuration
+* Basic log analysis
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Kali Linux
 * Nmap
@@ -90,11 +106,10 @@ This repository documents my practical journey in cybersecurity and penetration 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 penetration-testing-labs/
-│
 ├── reconnaissance/
 ├── scanning/
 ├── vulnerability-assessment/
@@ -108,26 +123,15 @@ penetration-testing-labs/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-This repository is created strictly for **educational and ethical purposes only**.
-All activities were performed in controlled lab environments.
-No real systems or unauthorized targets were used.
+This repository is for educational and ethical learning purposes only. All activities were performed in controlled lab environments.
 
 ---
 
-## 🚀 Future Goals
+## Author
 
-* Build real-world cybersecurity projects
-* Participate in CTF challenges
-* Explore Bug Bounty programs
-* Develop deeper expertise in penetration testing
+Pinak Barai
+CSE Student, Southeast University
 
----
-
-## 👨‍💻 Author
-
-**Pinak Barai**
-CSE Student | Cybersecurity Enthusiast
-
-🔗 GitHub: https://github.com/PinakBarai
+GitHub: https://github.com/PinakBarai
