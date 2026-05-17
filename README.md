@@ -4,10 +4,11 @@
 
 This repository contains my hands-on lab exercises, notes, and reports completed during the **Applied Penetration Testing Engineer (Hands-on)** course under the **EDGE – Digital Skills for Students Program**.
 
-🎓 **Student:** Pinak Barai
-🏫 **Department:** CSE, Southeast University
-📍 **Host Institution:** Chittagong University of Engineering and Technology (CUET)
-📍 **Batch:** CADS-003
+**Student:** Pinak Barai<br>
+**Department:** Computer Science and Engineering <br>
+Southeast University
+**Host Institution:** Chittagong University of Engineering and Technology (CUET)
+**Batch:** CADS-003
 
 This repository documents my practical journey in cybersecurity and penetration testing using tools and techniques learned throughout the course.
 
