@@ -5,7 +5,7 @@
 **Host University:** Chittagong University of Engineering and Technology<br>
 **Host Dept:** Department of Computer Science and Engineering, CUET
 
-**Venue:** Southeast University
+**Venue:** Southeast University<br>
 **Batch Number:** CADS-003
 
 **Training Track/Course Name:** Applied Penetration Testing Engineer: Hands-on
