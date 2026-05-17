@@ -1,29 +1,31 @@
-<div align="center" style="background-color:#f5f5f5; padding:25px; border-radius:15px; max-width:800px; margin:auto;">
+<p align="center">
 
-<h2>Enhancing Digital Government Economy (EDGE)</h2>
+<strong>Enhancing Digital Government Economy (EDGE)</strong>
 
-<p><strong>Digital Skills for Students</strong></p>
+<br><br>
 
-<p>
-Host University: Chittagong University of Engineering and Technology<br>
+Digital Skills for Students
+
+<br><br>
+
+Host University: Chittagong University of Engineering and Technology
 Host Dept./Institute/Center: Dept. of CSE, CUET
-</p>
-
-<p>
-Venue: Southeast University, Batch Number: CADS-003
-</p>
-
-<p>
-Training Track/Course Name: Applied Penetration Testing Engineer: Hands-on
-</p>
-
-<p>
-Level: Advanced Level
-</p>
-
-</div>
 
 <br>
+
+Venue: Southeast University
+Batch Number: CADS-003
+
+<br>
+
+Training Track/Course Name: Applied Penetration Testing Engineer: Hands-on
+
+<br>
+
+Level: Advanced Level
+
+</p>
+
 
 ## Objectives
 
