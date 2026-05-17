@@ -2,8 +2,8 @@
 
 ## Digital Skills for Students
 
-**Host University:** Chittagong University of Engineering and Technology
-**Host Dept./Institute/Center:** Dept. of CSE, CUET
+**Host University:** Chittagong University of Engineering and Technology<br>
+**Host Dept:**Department of Computer Science and Engineering, CUET
 
 **Venue:** Southeast University
 **Batch Number:** CADS-003
