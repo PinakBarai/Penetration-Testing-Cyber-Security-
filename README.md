@@ -8,7 +8,7 @@
 **Venue:** Southeast University<br>
 **Batch Number:** CADS-003
 
-**Training Track/Course Name:** Applied Penetration Testing Engineer: Hands-on
+**Course Name:** Applied Penetration Testing Engineer: Hands-on
 
 **Level:** Advanced Level
 
