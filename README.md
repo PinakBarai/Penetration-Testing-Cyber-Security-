@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#f5f5f5; padding:25px; border-radius:15px; max-width:800px; margin:auto;">
+<strong style="font-size:20px;">Enhancing Digital Government Economy (EDGE)</strong>
 
 <h2>Enhancing Digital Government Economy (EDGE)</h2>
 
