@@ -10,7 +10,8 @@ Host Dept./Institute/Center: Dept. of CSE, CUET
 </p>
 
 <p>
-Venue: Southeast University, Batch Number: CADS-003
+Venue: Southeast University<br>
+       Batch Number: CADS-003
 </p>
 
 <p>
