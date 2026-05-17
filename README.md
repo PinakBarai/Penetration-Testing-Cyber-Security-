@@ -31,7 +31,8 @@ This repository contains my practical lab exercises and reports completed during
 This repository is for educational and ethical learning purposes only.
 
 ## Author
-Pinak Barai/n
+Pinak Barai
+
 SEU_CSE-67
 
 GitHub: https://github.com/PinakBarai
